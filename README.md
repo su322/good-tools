@@ -1,5 +1,4 @@
-# dev-tools
-我用过的印象深刻的工具的主观总结
+# good-tools
 
 rimraf - 删除node_modules文件夹最快
 
