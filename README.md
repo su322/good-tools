@@ -7,3 +7,5 @@ pnpm - 替代npm install
 github desktop - git可视化管理
 
 claude code - 代码开发，缓存命中率很高
+
+deepseek-v4-flash - 仅限旧版，真便宜，虽然新版更强大
